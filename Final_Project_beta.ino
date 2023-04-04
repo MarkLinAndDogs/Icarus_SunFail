@@ -2,6 +2,7 @@
 //Add a sensor feature (if we can)
 //Add a light feature, where the button on the sun can only activate once the other servo interacts with the sensor
 //Try to brainstorm and improve on current code
+//Work on Cardboard designs, realistic or cartoonic? Need to discuss with Nick
 
 //Tower button set-up
 const int buttonTPin = 4; //Placeholder pin number
